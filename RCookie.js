@@ -27,6 +27,6 @@ var RCookie = (function(){
 	return {
 		set:set,
 		get:get,
-		delect:delect
+		del:delect
 	}
 })();
